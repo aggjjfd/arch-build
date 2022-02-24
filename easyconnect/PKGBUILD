@@ -7,7 +7,8 @@ pkgver=7.6.7.3.76b7ebc57725ae1e999151cdc215f8e7cef8a31b
 pkgrel=1
 pkgdesc="Support access to ssl vpn. With easyconect，you can secure and speed up connection to cooperate network at ease!"
 arch=('x86_64')
-makedepends=('cairo')
+depends=('cairo'
+        'fribidi')
 url="http://www.sangfor.com.cn"
 license=('custom')
 install=${pkgname}.install

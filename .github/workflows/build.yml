@@ -24,7 +24,6 @@ jobs:
           - nerd-fonts-sarasa-mono
           - tlpui
           - noto-fonts-lite
-          - easyconnect
           - qtscrcpy
           - typora-free
 
