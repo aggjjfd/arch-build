@@ -11,8 +11,10 @@ url="http://www.sangfor.com.cn"
 license=('custom')
 install=${pkgname}.install
 source=("http://download.sangfor.com.cn/download/product/sslvpn/pkg/linux_767/EasyConnect_x64_7_6_7_3.deb"
-        "http://ftp.acc.umu.se/pub/GNOME/sources/pango/1.42/pango-1.42.4.tar.xz")
+        "http://ftp.acc.umu.se/pub/GNOME/sources/pango/1.42/pango-1.42.4.tar.xz"
+        "cairo")
 md5sums=('SKIP'
+        'SKIP'
         'SKIP')
 package(){
         tar xzf data.tar.gz -C "${pkgdir}"
