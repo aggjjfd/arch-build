@@ -26,6 +26,7 @@ jobs:
           - noto-fonts-lite
           - easyconnect
           - qtscrcpy
+          - typora-free
 
       fail-fast: false
       
