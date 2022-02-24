@@ -1,1 +1,5 @@
-easyconnect/.git/ 
+easyconnect/*.deb
+easyconnect/*.xz
+easyconnect/*.zst
+easyconnect/pkg/
+easyconnect/src/

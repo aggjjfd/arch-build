@@ -54,7 +54,9 @@ jobs:
   buildNonAUR:
     strategy:
       matrix:
-        PKGBUILDs: [BBDown] #@ 改这里
+        PKGBUILDs: #@ 改这里
+          - BBDown
+          - easyconnect
 
       fail-fast: false
       
