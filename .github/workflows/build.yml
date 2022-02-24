@@ -18,9 +18,9 @@ jobs:
           - microsoft-edge-stable-bin
           - visual-studio-code-bin
           - yesplaymusic-electron
-          - wps-office-cn
-          - wps-office-mime-cn
-          - wps-office-mui-zh-cn
+          # - wps-office-cn
+          # - wps-office-mime-cn
+          # - wps-office-mui-zh-cn
           - nerd-fonts-sarasa-mono
           - tlpui
           - noto-fonts-lite
