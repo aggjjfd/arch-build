@@ -26,6 +26,8 @@ jobs:
           - noto-fonts-lite
           - qtscrcpy
           - typora-free
+          - waydroid
+          - waydroid-image-gapps
 
       fail-fast: false
       
