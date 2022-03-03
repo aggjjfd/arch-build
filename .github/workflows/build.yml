@@ -28,6 +28,7 @@ jobs:
           - typora-free
           - waydroid
           - waydroid-image-gapps
+          - anbox-image-gapps-magisk-xposed
 
       fail-fast: false
       
