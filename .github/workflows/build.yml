@@ -58,7 +58,7 @@ jobs:
       matrix:
         PKGBUILDs: #@ 改这里
           - BBDown
-          # - easyconnect
+          - easyconnect
 
       fail-fast: false
       
